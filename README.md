@@ -7,6 +7,10 @@ Business Administration student with an AI focus at Santa Monica College, transf
 - **AI Document Intelligence Extern @ Pfizer, via Extern** (Oct 2026 – present): using OCR, LLMs and retrieval-augmented generation (RAG) in Python to automate document classification and data extraction.
 
 ### Things I've built
+- **[AI Earnings Call Analyst](https://github.com/JaydenJohnson55/earnings-call-analyst)** (Python, Claude API): pulls guidance, risks and finance-specific tone out of earnings call transcripts and compares quarters.
+- **[Personal Finance Agent](https://github.com/JaydenJohnson55/personal-finance-agent)** (Python, Claude tool use): ask a bank statement questions in plain English; finds subscriptions, price hikes and duplicate charges.
+- **[AI Use-Case Prioritizer](https://github.com/JaydenJohnson55/ai-use-case-prioritizer)** (Python): turns stakeholder interviews into a ranked AI roadmap with a weighted scorecard and sensitivity test.
+- **Prediction-market trading bot** (Kalshi API): traded real money under strict bankroll rules; taught me to backtest before trusting a strategy.
 - **Coaching chatbots** (Scottsdale Basketball, 2026): LLM chatbots that answer players' questions 24/7 in the head coach's voice, built with custom system prompts and LLM APIs.
 - **Vision Production Inspection** (Python, OpenCV): counts parts in production photos and rejects the defective ones in about 50 ms per photo.
 - **CRM to ERP Sync** (Python, SQL, SQLite): cleans messy sales exports and loads every closed deal into a finance database exactly once.
